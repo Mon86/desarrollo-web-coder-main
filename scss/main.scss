@@ -1,0 +1,17 @@
+$colores:(
+    resaltar: #276e90,
+    otros: #cecfc9,
+    main: #bfd8d2,
+    animacion: rgb(12, 175, 91),
+    letra:black
+);
+@import "./secciones-de-scss/elementos.scss";
+@import "./secciones-de-scss/footer.scss";
+@import "./secciones-de-scss/header.scss";
+@import "./secciones-de-scss/cuerpo.scss";
+@import "./secciones-de-scss/index.scss";
+@import "./secciones-de-scss/indie.scss";
+@import "./secciones-de-scss/noticias.scss";
+@import "./secciones-de-scss/reseñas.scss";
+@import "./secciones-de-scss/rock.scss";
+@import "./secciones-de-scss/mediaquerys.scss";

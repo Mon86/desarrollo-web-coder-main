@@ -1,0 +1,16 @@
+footer{
+    background-color: map-get($map: $colores, $key:otros );
+    .informacion{
+        text-align: justify ;
+    }
+    .redes{
+        align-items: baseline;
+        flex-direction: column;
+        list-style: none;
+        a{
+            text-decoration: none;
+            text-align: center;
+            color: black
+        }
+    }
+}
